@@ -1,5 +1,3 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682400)
-
 # Python HTTP API for use with GitHub Codespaces
 
 _Run a Python API in this ready-to-use-repository in minutes_
