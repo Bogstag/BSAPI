@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.bashrc
+.gitignore
+.config/starship.toml
